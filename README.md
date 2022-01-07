@@ -1,3 +1,4 @@
-[Jovel Labay](https://user-images.githubusercontent.com/68805755/148552214-37c74780-3c43-4030-9359-a94c8341c7eb.png)
+![Jovel Labay](https://user-images.githubusercontent.com/68805755/148552500-76f46327-64cd-4c72-b408-d3c165c099f2.png)
+
 
 ### Hello!
