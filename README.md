@@ -1,6 +1,7 @@
 ## Hi there!. I'm Jovellabay 22 years old taking up Bachelor of Science in Information Technology (3rd-year). I pursue to become full-stack web developer and mobile developer
+<br>
 
-<hr>
+[Visit my Portfolio](https://jovellabay.vercel.app/)
 <br>
 
 > CONTACT ME HERE :
@@ -41,9 +42,9 @@
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="35">
     <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="35">
     <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="35">
-    <img alt="" src="" height="35">
-    <img alt="" src="" height="35">
-    <img alt="" src="" height="35">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35">
+    <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="35">
+    <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" height="35">
     <img alt="" src="" height="35">
     <img alt="" src="" height="35">
     <img alt="" src="" height="35">
