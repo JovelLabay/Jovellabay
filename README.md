@@ -1,10 +1,10 @@
-## Hi there! I'm Jovellabay 22 years old taking up Bachelor of Science in Information Technology (3rd-year). I pursue to become full-stack web developer and mobile developer
+## Hi there👋 I'm Jovellabay 22 years old taking up Bachelor of Science in Information Technology (3rd-year). I pursue to become full-stack web developer and mobile developer💻
 <br>
 
-#### You can [visit my Portfolio](https://jovellabay.vercel.app/)
+#### You can [visit my Portfolio👉](https://jovellabay.vercel.app/)
 <br>
 
-> CONTACT ME :
+> CONTACT ME👇
 
 <div>
     <a href="https://twitter.com/dodonglabs">
@@ -29,7 +29,7 @@
 </div>
 <br>
 
-> TECHNOLOGY STACK :
+> TECHNOLOGY STACK
 
 <div>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35">
