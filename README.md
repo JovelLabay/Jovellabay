@@ -1,7 +1,7 @@
-## Hi there!. I'm Jovellabay 22 years old taking up Bachelor of Science in Information Technology (3rd-year). I pursue to become full-stack web developer and mobile developer
+## Hi there! I'm Jovellabay 22 years old taking up Bachelor of Science in Information Technology (3rd-year). I pursue to become full-stack web developer and mobile developer
 <br>
 
-[Visit my Portfolio](https://jovellabay.vercel.app/)
+#### You can [visit my Portfolio](https://jovellabay.vercel.app/)
 <br>
 
 > CONTACT ME :
