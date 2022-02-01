@@ -59,7 +59,6 @@
 <br>
 
 <img alrt="Jovellabay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jovellabay&theme=radical&count_private=true&show_icons=true">
-
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovellabay&layout=compact">
