@@ -13,8 +13,6 @@
   </samp>
 </p>
 
-<hr>
-
 <!-- CONTACT LINKS -->
 <h2  align="center">📫Reach me on</h2>
 <p align="center">
