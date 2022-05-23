@@ -1,6 +1,9 @@
 ## Hi there👋 I'm Jovellabay 22 years old taking up Bachelor of Science in Information Technology (3rd-year). I pursue to become full-stack web developer and mobile developer💻
 
 #### You can [visit my Portfolio👉](https://jovellabay.vercel.app/)
+
+<a href="https://app.daily.dev/Jovel"><img src="https://api.daily.dev/devcards/971fc8d8e1df468ca47fb087a70e4551.png?r=gpo" width="400" alt="jovellabay's Dev Card"/></a>
+
 <br>
 
 > CONTACT ME👇
