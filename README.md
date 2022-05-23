@@ -61,9 +61,9 @@
 <br>
 
 <div>
-    <a href="https://app.daily.dev/Jovel">
+<!--     <a href="https://app.daily.dev/Jovel">
         <img src="https://api.daily.dev/devcards/971fc8d8e1df468ca47fb087a70e4551.png?r=gpo" width="400" alt="jovellabay's Dev Card"/>
-    </a>
+    </a> -->
     
     <img alrt="Jovellabay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jovellabay&theme=radical&count_private=true&show_icons=true">
 
