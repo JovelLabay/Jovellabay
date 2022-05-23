@@ -1,8 +1,6 @@
-## Hi there👋 I'm Jovellabay 22 years old taking up Bachelor of Science in Information Technology (3rd-year). I pursue to become full-stack web developer and mobile developer💻
+## Hi there I'm Jovellabay 22 years old taking up Bachelor of Science in Information Technology. I am a freelancer Full-Stack Web and React Native Developer.
 
 <!-- #### You can [visit my Portfolio👉](https://jovellabay.vercel.app/) -->
-
-<a href="https://app.daily.dev/Jovel"><img src="https://api.daily.dev/devcards/971fc8d8e1df468ca47fb087a70e4551.png?r=gpo" width="400" alt="jovellabay's Dev Card"/></a>
 
 <br>
 
@@ -29,9 +27,10 @@
         <img alt="Tiktok" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
+
 <br>
 
-> TECHNOLOGY STACK👇
+> TECHNOLOGY STACK
 
 <div>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35">
@@ -58,10 +57,13 @@
     <img alt="" src="" height="35">
     <img alt="" src="" height="35">
 </div>
+
 <br>
 
-<img alrt="Jovellabay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jovellabay&theme=radical&count_private=true&show_icons=true">
+<a href="https://app.daily.dev/Jovel"><img src="https://api.daily.dev/devcards/971fc8d8e1df468ca47fb087a70e4551.png?r=gpo" width="400" alt="jovellabay's Dev Card"/></a>
+
+<!-- <img alrt="Jovellabay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jovellabay&theme=radical&count_private=true&show_icons=true">
+
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovellabay&layout=compact">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovellabay&layout=compact"> -->
