@@ -46,8 +46,8 @@
 
 <hr>
 
-<!-- FRONTEND, BACKEND, API, AUTHENTICATION TOOLS -->
-<h3 align="center">Frontend | Backend | API | AUTHENTICATION | TESTING</h3>
+<!-- FRONTEND, BACKEND, API, AUTHENTICATION, TESTING, HOSTING TOOLS -->
+<h3 align="center">Frontend | Backend | API | Authentication | Testing | Hosting</h3>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
