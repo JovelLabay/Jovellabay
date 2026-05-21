@@ -54,13 +54,13 @@ I am a Fullstack Developer with nearly 5 years of experience building web and mo
     
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,webstorm,androidstudio,github,gitlab,postman,bash,githubactions,heroku,linux,vercel,docker" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,webstorm,androidstudio,github,gitlab,bitbucket,postman,bash,githubactions,heroku,linux,vercel,docker,graphql,nginx" />
   </a>
 </p>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,javascript,typescript,nodejs,bun,expressjs,npm,ruby," />
+    <img src="https://skillicons.dev/icons?i=react,next,javascript,typescript,swift,nodejs,bun,deno,expressjs,npm,yarn,ruby," />
   </a>
 </p>
 
@@ -72,13 +72,13 @@ I am a Fullstack Developer with nearly 5 years of experience building web and mo
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase,sequelize,prisma,mongodb,mysql,posqres" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase,sequelize,prisma,mongodb,mysql,postgres" />
   </a>
 </p>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=figma,devto,notion" />
   </a>
 </p>
 </div>
