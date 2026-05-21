@@ -51,15 +51,16 @@ I am a Fullstack Developer with nearly 5 years of experience building web and mo
 <!-- TOOLS | FRAMEWORKS -->
 <h3 align="center">TOOLS | FRAMEWORKS | LIBRARIES | TESTING</h3>
 <div align="center">
+    
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,github,gitlab,postman,bash,githubactions,heroku,linux,vercel" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,webstorm,androidstudio,github,gitlab,postman,bash,githubactions,heroku,linux,vercel,docker" />
   </a>
 </p>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,express,electron,babel,jest,materialui,pug,redux,sass,tailwind,vite,webpack" />
+    <img src="https://skillicons.dev/icons?i=react,next,javascript,typescript,nodejs,bun,expressjs,npm,ruby," />
   </a>
 </p>
 
@@ -71,7 +72,7 @@ I am a Fullstack Developer with nearly 5 years of experience building web and mo
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,firebase,mongodb,mysql,prisma,supabase,sequelize" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase,sequelize,prisma,mongodb,mysql,posqres" />
   </a>
 </p>
 
