@@ -38,13 +38,18 @@ I'm a proactive software engineer with a Bachelor's degree in Information Techno
 <hr>
 
 <!-- PROGRAMMING LANGUAGES AND RUNTIME ENVIRONMENTS -->
-<h3 align="center">Languages | Runtime Environments</h3>
+<h3 align="center">Languages | Runtime Environments | AI</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40" />
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" height="40"/>
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Claude_Code-555?logo=claude" height="40"/>
+    <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Open%20in-Cursor-black?logo=cursor" height="40"/>
  </div>
 
 <hr>
