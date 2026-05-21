@@ -1,16 +1,11 @@
 <!-- HELLO INTRODUCTION -->
 <h1 align="center">Hello 👋</h1>
 
-<!-- IMAGE FOR INTRODUCTION -->
-<div align="center">
-  <img src="./github_img_profile.png" alt="header"/>
-</div>
-
 <!-- INTRODUCTION STATEMENT -->
 <h3 align="center">Full-Stack - Software Engineer</h3>
 
 <p style="  text-align: center;">
-I'm a proactive software engineer with a Bachelor's degree in Information Technology from Xavier University and nearly 3 years of experience. As a Software Engineer at Hatchit Solutions, I thrive on embracing new technologies and industry trends. My track record includes successful deployment of diverse web and mobile applications, focusing on serverless architecture and utilizing technologies like ReactJS, NodeJS, ExpressJS, and Firebase. Proficient in UI/UX design, backend development, and database management, I've collaborated on international projects, such as the ML Lhuillier ML Loans web app and the Humers cross-platform mobile app. Expertise in TypeScript, NextJS, Prisma, TailwindCSS, and MySQL enables me to consistently deliver innovative solutions, combining practical experience with a strong educational foundation.
+I am a Fullstack Developer with nearly 5 years of experience building web and mobile applications for global companies. I specialize in bridging the gap between UI/UX design and scalable system architecture using modern Javascript libraries and frameworks.
 </p>
 
 <hr>
@@ -47,7 +42,6 @@ I'm a proactive software engineer with a Bachelor's degree in Information Techno
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="40"/>
     <img src="https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" height="40"/>
     <img src="https://img.shields.io/badge/Claude_Code-555?logo=claude" height="40"/>
-    <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white" height="40"/>
     <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white" height="40"/>
     <img src="https://img.shields.io/badge/Open%20in-Cursor-black?logo=cursor" height="40"/>
  </div>
