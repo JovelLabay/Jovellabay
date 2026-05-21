@@ -54,7 +54,7 @@ I am a Fullstack Developer with nearly 5 years of experience building web and mo
     
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,webstorm,androidstudio,github,gitlab,bitbucket,postman,bash,githubactions,heroku,linux,vercel,docker,graphql,nginx" />
+    <img src="https://skillicons.dev/icons?i=git,docker,github,gitlab,bitbucket,postman,bash,githubactions,heroku,linux,vercel,docker,graphql,nginx" />
   </a>
 </p>
 
