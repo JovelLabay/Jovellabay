@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋</h1>
 
 <!-- INTRODUCTION STATEMENT -->
-<h3 align="center">Full-Stack - Software Engineer</h3>
+<h3 align="center">Javascript Fullstack Developer</h3>
 
 <p style="  text-align: center;">
 I am a Fullstack Developer with nearly 5 years of experience building web and mobile applications for global companies. I specialize in bridging the gap between UI/UX design and scalable system architecture using modern Javascript libraries and frameworks.
